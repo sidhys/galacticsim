@@ -1,3 +1,21 @@
+/*++
+
+Copyright (c) 2022 <> 
+
+Module Name: 
+
+    ims.cpp
+
+Abstract: 
+
+    ims.dll stores settings, such as a users desired color theme or such. 
+
+Revision History: 
+
+    @daylimbic 3/21/22 Init
+
+--*/ 
+
 #include "ims.h" 
 #include <cstring> 
 #include <fstream>

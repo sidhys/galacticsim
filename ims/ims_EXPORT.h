@@ -8,7 +8,7 @@
         #define SHARED_EXPORT __declspec(dllimport)
     #endif
 #else
-    #define SHARED_EXPORT // mac stuff
+    #define SHARED_EXPORT /* todo: MacOS support */
 #endif
 
 
